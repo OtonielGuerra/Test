@@ -1,0 +1,11 @@
+C:\Users\hpalma\Documents\sabado\TestDotnet\bin\Debug\netcoreapp3.1\TestDotnet.exe
+C:\Users\hpalma\Documents\sabado\TestDotnet\bin\Debug\netcoreapp3.1\TestDotnet.deps.json
+C:\Users\hpalma\Documents\sabado\TestDotnet\bin\Debug\netcoreapp3.1\TestDotnet.runtimeconfig.json
+C:\Users\hpalma\Documents\sabado\TestDotnet\bin\Debug\netcoreapp3.1\TestDotnet.runtimeconfig.dev.json
+C:\Users\hpalma\Documents\sabado\TestDotnet\bin\Debug\netcoreapp3.1\TestDotnet.dll
+C:\Users\hpalma\Documents\sabado\TestDotnet\bin\Debug\netcoreapp3.1\TestDotnet.pdb
+C:\Users\hpalma\Documents\sabado\TestDotnet\obj\Debug\netcoreapp3.1\TestDotnet.csprojAssemblyReference.cache
+C:\Users\hpalma\Documents\sabado\TestDotnet\obj\Debug\netcoreapp3.1\TestDotnet.AssemblyInfoInputs.cache
+C:\Users\hpalma\Documents\sabado\TestDotnet\obj\Debug\netcoreapp3.1\TestDotnet.AssemblyInfo.cs
+C:\Users\hpalma\Documents\sabado\TestDotnet\obj\Debug\netcoreapp3.1\TestDotnet.dll
+C:\Users\hpalma\Documents\sabado\TestDotnet\obj\Debug\netcoreapp3.1\TestDotnet.pdb
